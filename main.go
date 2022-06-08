@@ -2,5 +2,5 @@ package main
 
 func main() {
     print("Code.education Rocks!")
-    print("First release code!")
+    print("First release of the code! [Fixed]")
 }
